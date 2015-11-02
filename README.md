@@ -1,5 +1,5 @@
 #_Faithfulness Testing Haunted House_
-Made by Ahmed Abdalla and Meagan Carioti
+Made by [Ahmed Abdalla](https://github.com/ahmeda1955) and [Meagan Carioti](https://github.com/meaganc2976)
 ___
 ##[Click here to begin!]()  
 

@@ -5,3 +5,4 @@ ___
 
 ##[Click here to see the document used to plan for this CYOA!](https://docs.google.com/document/d/1yGEi-arCLkIX4OkhGI1NtHVQVq56zSRDhzOjfT1C8xw/edit)
 
+###The purpose of this project was to practice collaboration and links, as well as, to use our knowledge of git and github.

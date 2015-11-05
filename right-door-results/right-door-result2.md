@@ -1,3 +1,3 @@
-You both die. 
+## You both die. 
 
 ## [Start Over](../README.md)

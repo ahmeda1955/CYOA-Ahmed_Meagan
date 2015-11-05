@@ -6,3 +6,4 @@
  
 - ## [Middle Door](./middle-door.md)
 
+![alt text](./images/hauntedhouse.jpg)

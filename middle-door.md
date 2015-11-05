@@ -2,7 +2,7 @@
 ##There's a creepy little girl singing a nursery rhyme 
 
 
-1.  [Sing Along](middlet-door-results/result-1.md)
+1.  [Sing Along](middle-door-results/result-1.md)
 
 2. [Run away]()  
 

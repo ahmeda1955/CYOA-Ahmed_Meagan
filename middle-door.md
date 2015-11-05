@@ -2,11 +2,12 @@
 ##There's a creepy little girl singing a nursery rhyme 
 
 
-1. Sing along  
+1. [Sing along]() 
 
-2. Run away  
+2. [Run away]()  
 
-3. Try to kill the girl.
+3. [Try to kill the girl.]()
 
-4. Tell the girl that she can have your friend.
-Faint
+4. [Tell the girl that she can have your friend.]()
+
+5. [Faint]()

@@ -2,7 +2,7 @@
 
 - ## [Left Door](./left-door.md)  
  
-- ## [Right Door](./right-door.md)   
+- ## [Right Door](../right-door.md)   
  
 - ## [Middle Door](./middle-door.md)
 
